@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/nidha/first-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6537628e-7b09-4ee6-9ed1-52d95cb8078a"
   }
 }
